@@ -1,2 +1,30 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+<head>
+  <title>Создание чего либо для GitHub Desktop</title>
+</head>
+
+<body bgcolor="#AFEEEE">
+<table border="2" align="center">
+<tr>
+<th></th>
+<th>2И</th>
+</tr>
+<tr>
+    <th>1 пара</th>
+    <th>Моделирование и анализ ПО</th>
+</tr>
+<tr>
+    <th>Вторая пара</th>
+    <th>Моделирование и анализ ПО</th>
+    
+</tr>
+<tr>
+    <th>Третья пара</th>
+    <th>Технология разработка ПО</th>
+</tr>
+</table>
+</body>
+</html>
+
